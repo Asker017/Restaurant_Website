@@ -9,6 +9,9 @@
     "start": "node dist/index.js",
     "seed": "ts-node-dev src/seed/seedData.ts"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "keywords": [
     "mern",
     "restaurant",
